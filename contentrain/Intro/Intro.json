@@ -6,6 +6,7 @@
     "text": "A statically generated blog example using",
     "underlinetext": "Next.js",
     "href": "https://nextjs.org/",
-    "cmsname": "Markdown"
+    "cmsname": "Markdown",
+    "updatedAt": 1676782387060
   }
 ]
